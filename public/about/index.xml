@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Cynthia Siew</title>
+    <link>/hugo-goa-demo/about/</link>
+    <description>Recent content in Abouts on Cynthia Siew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/hugo-goa-demo/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/hugo-goa-demo/about/about/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/hugo-goa-demo/about/about/</guid>
+      <description>I&amp;rsquo;m currently a post doctoral fellow at the University of Warwick, UK. I graduated from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017 and completed my undergraduate degree in Psychology at the National University of Singapore in 2011.
+My research broadly involves using behavioral and computational methods to investigate the cognitive processes and mechanisms that support lexical processing. In particular I apply the suite of tools offered by network science to study the structure of the mental lexicon and see how that affects the way we produce speech, understand language and learn new words.</description>
+    </item>
+    
+  </channel>
+</rss>

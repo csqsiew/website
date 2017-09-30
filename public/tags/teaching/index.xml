@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Cynthia Siew</title>
+    <link>/hugo-goa-demo/tags/teaching/</link>
+    <description>Recent content in Teaching on Cynthia Siew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/hugo-goa-demo/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>/hugo-goa-demo/teaching/teaching-summary/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/hugo-goa-demo/teaching/teaching-summary/</guid>
+      <description>University of Warwick (2017-)
+ Personal tutor for first years  University of Kansas (2012-2017)
+Summer 2016
+ PSYC 318 Cognitive Psychology (Assistant Instructor)  8-week &amp;ldquo;pure&amp;rdquo; online class of 59 students   Fall 2015, Spring 2016, Fall 2016, Spring 2017
+ PSYC 104 General Psychology (Assistant Instructor)  Team-taught by a team of Faculty Coordinators, Graduate Assistant Instructors, and Graduate Teaching Assistants Served as an instructor of record for ~500 students Hybrid, &amp;ldquo;flipped&amp;rdquo; classroom format: a significant online learning component + weekly in-class meetings Developed and facilitated in-class discussions and group activities designed to maximize active learning and collaboration among student learning teams   Spring 2015</description>
+    </item>
+    
+  </channel>
+</rss>

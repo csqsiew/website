@@ -1,0 +1,69 @@
+## Basic Configuration
+
+baseurl = "https://csqsiew.netlify.com" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Cynthia Siew"
+title = "Cynthia Siew"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Cynthia S. Q. Siew"
+intro = "Psycholinguist studying language networks."
+description = "Currently post doc-ing at the University of Warwick,<br/>but once a Jayhawk, always a Jayhawk."
+authorimage = "profile2.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Cynthia S. Q. Siew"
+keywords = ""
+
+## Social Accounts
+[params.social]
+github = "csqsiew"
+instagram = "csqsiew"
+linkedin = "csqsiew"
+twitter = "csqsiew"
+email = "cynsiewsq@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. CSQ Siew." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    weight = 50
+    identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "research"
+    weight = 100
+    identifier = "research"
+    url = "/research/"
+[[menu.main]]
+    name = "teaching"
+    identifier = "teaching"
+    weight = 200
+    url = "/teaching/"
+[[menu.main]]
+    name = "Rcode"
+    identifier = "Rcode"
+    weight = 300
+    url = "/Rcode/"

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rcode on Cynthia Siew</title>
+    <link>/hugo-goa-demo/categories/rcode/</link>
+    <description>Recent content in Rcode on Cynthia Siew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/hugo-goa-demo/categories/rcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rcode</title>
+      <link>/hugo-goa-demo/rcode/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/hugo-goa-demo/rcode/</guid>
+      <description>AdventureR
+Link to langnetr package Home-made package to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>langnetr package</title>
+      <link>/hugo-goa-demo/rcode/langnetr/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/hugo-goa-demo/rcode/langnetr/</guid>
+      <description>Home-made package to convert linguistic stimuli to a network representation.
+My first R package! It basically takes a set of words and makes a language network out of those words based on the 1 edit distance metric. I have found this quite useful not just for constructing the usual language networks, but for automating the creation of multiple networks (e.g., in acquisition), and for making toy networks for articles and presentations, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

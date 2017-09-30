@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rcodes on Cynthia Siew</title>
+    <link>https://csqsiew.netlify.com/rcode/</link>
+    <description>Recent content in Rcodes on Cynthia Siew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csqsiew.netlify.com/rcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>langnetr package</title>
+      <link>https://csqsiew.netlify.com/rcode/langnetr/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/rcode/langnetr/</guid>
+      <description>Home-made package to convert linguistic stimuli to a network representation.
+My first R package! It basically takes a set of words and makes a language network out of those words based on the 1 edit distance metric. I have found this quite useful not just for constructing the usual language networks, but for automating the creation of multiple networks (e.g., in acquisition), and for making toy networks for articles and presentations, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

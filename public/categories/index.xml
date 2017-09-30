@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Cynthia Siew</title>
+    <link>https://csqsiew.netlify.com/categories/</link>
+    <description>Recent content in Categories on Cynthia Siew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://csqsiew.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://csqsiew.netlify.com/categories/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/categories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>rski, K., Yaruss, J. S., &amp;amp; Vitevitch, M. S. (2017). Using the OASES-A to illustrate how network analysis can be applied to understand the experience of stuttering. Journal of Communication Disorders, 65, 1-9.
+Article | [Popular press article]
+Siew, C. S. Q. (2017). The influence of 2-hop network density on spoken word recognition. Psychonomic Bulletin and Review, 24(2), 496-502.
+Article | KU ScholarWorks
+Vitevitch, M.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>https://csqsiew.netlify.com/teaching/teaching-summary/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/teaching/teaching-summary/</guid>
+      <description>University of Warwick (2017-)
+ Personal tutor for first years  University of Kansas (2012-2017)
+Summer 2016
+ PSYC 318 Cognitive Psychology (Assistant Instructor)  8-week &amp;ldquo;pure&amp;rdquo; online class of 59 students   Fall 2015, Spring 2016, Fall 2016, Spring 2017
+ PSYC 104 General Psychology (Assistant Instructor)  Team-taught by a team of Faculty Coordinators, Graduate Assistant Instructors, and Graduate Teaching Assistants Served as an instructor of record for ~500 students Hybrid, &amp;ldquo;flipped&amp;rdquo; classroom format: a significant online learning component + weekly in-class meetings Developed and facilitated in-class discussions and group activities designed to maximize active learning and collaboration among student learning teams   Spring 2015</description>
+    </item>
+    
+    <item>
+      <title>langnetr package</title>
+      <link>https://csqsiew.netlify.com/rcode/langnetr/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/rcode/langnetr/</guid>
+      <description>Home-made package to convert linguistic stimuli to a network representation.
+My first R package! It basically takes a set of words and makes a language network out of those words based on the 1 edit distance metric. I have found this quite useful not just for constructing the usual language networks, but for automating the creation of multiple networks (e.g., in acquisition), and for making toy networks for articles and presentations, etc.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://csqsiew.netlify.com/about/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/about/</guid>
+      <description>I&amp;rsquo;m currently a post doctoral fellow at the University of Warwick, UK. I graduated from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017 and completed my undergraduate degree in Psychology at the National University of Singapore in 2011.
+My research broadly involves using behavioral and computational methods to investigate the cognitive processes and mechanisms that support lexical processing. In particular I apply the suite of tools offered by network science to study the structure of the mental lexicon and see how that affects the way we produce speech, understand language and learn new words.</description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://csqsiew.netlify.com/research/conferences/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/research/conferences/</guid>
+      <description>2017
+Siew, C. S. Q., &amp;amp; Vitevitch, M. S. (2017, November). The Phonographic Network of Language: Using Network Science to Investigate the Phonological and Orthographic Similarity Structure of Language. Poster to be presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
+Chan, K. Y., &amp;amp; Siew, C. S. Q. (2017, November). Dynamics of Lexical Competition during Foreign-Accented Word Recognition. Poster to be presented at the 58th Annual Meeting of the Psychonomic Society.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Portfolio</title>
+      <link>https://csqsiew.netlify.com/teaching/teaching-portfolio/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://csqsiew.netlify.com/teaching/teaching-portfolio/</guid>
+      <description>University of Kansas (2012-2017)
+ PSYC 104 General Psychology PSYC 318 Cognitive Psychology (online)  PSYC 104 General Psychology
+Student Evaluations:
+ Summary of Student Evaluations (Fall 2015/Spring 2016/Fall 2016) Fall 2015 (KU Student Survey of Teaching) Spring 2016 (KU Student Survey of Teaching) Fall 2016 (KU Student Survey of Teaching) Spring 2017 (KU Student Survey of Teaching) - forthcoming  Sample Lesson Plans:
+ Zombie Neuroscience &amp;ldquo;Speed Dating&amp;rdquo; - Learning Psychological Disorders and Social Media Pinwheel Discussions - Language, Thought, and Intelligence Design a toy!</description>
+    </item>
+    
+  </channel>
+</rss>

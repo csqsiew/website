@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Erlich Bachman</title>
+    <link>/hugo-goa-demo/categories/about/</link>
+    <description>Recent content in About on Erlich Bachman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/hugo-goa-demo/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/hugo-goa-demo/research/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/hugo-goa-demo/research/</guid>
+      <description>Peer-Reviewed Articles
+Siew, C. S. Q., Pelczarski, K., Yaruss, J. S., &amp;amp; Vitevitch, M. S. (2017). Using the OASES-A to illustrate how network analysis can be applied to understand the experience of stuttering. Journal of Communication Disorders, 65, 1-9. (Link) Siew, C. S. Q. (2017). The influence of 2-hop network density on spoken word recognition. Psychonomic Bulletin and Review, 24(2), 496-502. (Full-Text Link) (KU ScholarWorks) Vitevitch, M. S. &amp;amp; Siew, C.</description>
+    </item>
+    
+  </channel>
+</rss>
