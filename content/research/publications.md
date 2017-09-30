@@ -13,7 +13,7 @@ showpagemeta = false
 **Peer-Reviewed Articles** 
 
 Siew, C. S. Q., Pelczarski, K., Yaruss, J. S., & Vitevitch, M. S. (2017). Using the OASES-A to illustrate how network analysis can be applied to understand the experience of stuttering. *Journal of Communication Disorders, 65*, 1-9.   
-[Article](http://www.sciencedirect.com/science/article/pii/S0021992416301782) | [Popular press article]
+[Article](http://www.sciencedirect.com/science/article/pii/S0021992416301782) | [Popular press article](http://atlasofscience.org/a-network-of-stuttering/)
 
 Siew, C. S. Q. (2017). The influence of 2-hop network density on spoken word recognition. *Psychonomic Bulletin and Review, 24*(2), 496-502.  
 [Article](https://link.springer.com/article/10.3758%2Fs13423-016-1103-9) | [KU ScholarWorks](https://kuscholarworks.ku.edu/handle/1808/21111)
