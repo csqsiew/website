@@ -20,8 +20,8 @@ This was a very interesting project that, once again, broadened my ideas on what
 
 All the relevant scripts (minus my authentication token, of course!) can be found in the github repo below, in case it might be useful to others. If you have any comments or feedback, do get in touch! 
 
-The app is hosted on shinyapps.io -- [check it out](https://csqsiew.shinyapps.io/humorous_phrases/) and contribute to science! 
+The app is hosted on shinyapps.io -- [check it out](https://csqsiew.shinyapps.io/humorlanding/) and contribute to science! 
 
-* [humorous phrases](https://csqsiew.shinyapps.io/humorous_phrases/)
+* [humorous phrases](https://csqsiew.shinyapps.io/humorlanding/)
 * [Github repo](https://github.com/csqsiew/shinyhumor)
 * [Humor norms paper](https://link.springer.com/article/10.3758/s13428-017-0930-6)
