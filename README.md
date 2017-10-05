@@ -1,3 +1,5 @@
+#Edit: Used the Hugo Goa to build my website. I am using github for continuous deployment of the site via netlify. 
+
 # Hugo Goa Demo
 
 ## About
