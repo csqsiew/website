@@ -5,8 +5,8 @@ date = "2017-09-29"
 draft = false
 slug = ""
 tags = ""
-title = "Conferences"
-description = "Chronological list of conference posters and presentations"
+title = "Conferences & Presentations"
+description = "Chronological list of conference posters and academic presentations"
 showpagemeta = false
 +++
 
