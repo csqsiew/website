@@ -12,6 +12,8 @@ showpagemeta = false
 
 **2017**
 
+Siew, C. S. Q. (2017, November). Using network science to study the orthographic language network of English. Poster to be presented at the 6th International Conference on Complex Networks and Their Applications. Lyon, France.
+
 Siew, C. S. Q., & Vitevitch, M. S. (2017, November). The Phonographic Network of Language: Using Network Science to Investigate the Phonological and Orthographic Similarity Structure of Language. Poster to be presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
 
 Chan, K. Y., & Siew, C. S. Q. (2017, November). Dynamics of Lexical Competition during Foreign-Accented Word Recognition. Poster to be presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
