@@ -10,12 +10,6 @@ description = "A summary of my teaching experiences"
 showpagemeta = false
 +++
 
-**University of Warwick (2017-)**
-
-* Personal tutor for first years
-
-***
-
 **University of Kansas (2012-2017)**
 
 *Summer 2016*
