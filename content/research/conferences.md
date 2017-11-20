@@ -12,13 +12,15 @@ showpagemeta = false
 
 **2017**
 
-Siew, C. S. Q. (2017, November). Using network science to study the orthographic language network of English. Poster to be presented at the 6th International Conference on Complex Networks and Their Applications. Lyon, France.
+Siew, C. S. Q. (2017, November). Using network science to study the orthographic language network of English. Poster presented at the 6th International Conference on Complex Networks and Their Applications. Lyon, France.
 
-Siew, C. S. Q., & Vitevitch, M. S. (2017, November). The Phonographic Network of Language: Using Network Science to Investigate the Phonological and Orthographic Similarity Structure of Language. Poster to be presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
+* [Download poster](https://drive.google.com/open?id=1R3QF7yUKZMiZHCnoM84VzB609Vqg6ola)
+
+Siew, C. S. Q., & Vitevitch, M. S. (2017, November). The Phonographic Network of Language: Using Network Science to Investigate the Phonological and Orthographic Similarity Structure of Language. Poster presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
 
 * [Download poster](https://drive.google.com/open?id=1rme8fx2jDRVRX30lpEmWjovlk9aJMAhY)
 
-Chan, K. Y., & Siew, C. S. Q. (2017, November). Dynamics of Lexical Competition during Foreign-Accented Word Recognition. Poster to be presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
+Chan, K. Y., & Siew, C. S. Q. (2017, November). Dynamics of Lexical Competition during Foreign-Accented Word Recognition. Poster presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
 
 Covey, L., Girolamo, T., Siew, C. S. Q., Weyers, I., Yang, X., Vogt-Woodin, A., Coughlin, C., & Minai, U. (2017, November). Examining the role of pragmatics during children's comprehension of only: An eye-tracking study. Poster to be presented at the 42nd Boston University Conference on Language Development. Boston, MA.
 
