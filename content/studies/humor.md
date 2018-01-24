@@ -6,7 +6,7 @@ draft = false
 slug = ""
 tags = ""
 title = "Consent for Humorous Phrases"
-description = "Landing page for humorous phrases project"
+description = "Landing page for Humorous Phrases project"
 showpagemeta = false
 +++
 

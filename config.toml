@@ -65,10 +65,11 @@ highlightjs = true
 [[menu.main]]
     name = "Rcode"
     identifier = "Rcode"
-    weight = 300
+    weight = 250
     url = "/Rcode/"
 [[menu.main]]
     name = "studies"
     identifier = "studies"
-    weight = 400
+    weight = 300
     url = "/studies/"
+    
