@@ -67,3 +67,9 @@ highlightjs = true
     identifier = "Rcode"
     weight = 300
     url = "/Rcode/"
+[[menu.main]]
+    name = "studies"
+    identifier = "datacollection"
+    weight = 400
+    url = "/datacollection/"
+    
