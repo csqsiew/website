@@ -5,12 +5,12 @@ date = "2018-01-24"
 draft = false
 slug = ""
 tags = ""
-title = "Consent for Humorous Phrases"
-description = "Landing page for Humorous Phrases project"
+title = "Humorous Phrases"
+description = "Informed Consent for the Humorous Phrases project"
 showpagemeta = false
 +++
 
-![](warwick.png)
+![](/img/warwick.png)
 
 **Humorous Phrases**
 
@@ -20,7 +20,7 @@ By proceeding, you are permitting your data to be used for research purposes, wi
 
 Your responses are anonymous and you are free to leave the website at any time.
 
-If you have any questions about this project, please don't hesitate to contact Tomas Engelthaler (T.Engelthaler@warwick.ac.uk) or Cynthia Siew (C.Siew@warwick.ac.uk).
+If you have any questions about this project, please don't hesitate to contact Tomas Engelthaler (*T.Engelthaler@warwick.ac.uk*) or Cynthia Siew (*C.Siew@warwick.ac.uk*).
      
 Click on the link below to proceed:
 
