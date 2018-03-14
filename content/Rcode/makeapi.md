@@ -25,7 +25,7 @@ Process was quite simple.
 2. Create a dataframe that indicated the x- and y-locations for each digit. This step is a bit tricky... Basically draw a circle and split it up into equal parts and figure out the x- and y-distances for the center point of the circle to get there... This little legend below should help. 
 
 ![](/img/legend.png)
-
+<img src="/img/legend.png" alt="Drawing" style="width: 200px;"/>
 
 3. Merge the dataframes from 1. and 2. 
 
@@ -33,7 +33,7 @@ Process was quite simple.
 
 **First 11 digits of pi**
 
-<img src="img/10pi.png" width="500">
+<img src="/img/10pi.png" width="500">
 
 **First 101 digits of pi**
 
