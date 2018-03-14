@@ -19,15 +19,21 @@ Many people have done data art with pi digits (see this awesome [collection](htt
 Concept: Plot a "random walk" of sorts where the angle (amount of rotation) of the step which the random walker takes depends on the digit in the sequence. 
 
 Process was quite simple. 
+
 1. Download a million digits of pi from this [website](http://pi2e.ch/blog/2017/03/10/pi-digits-download/). Get it into a dataframe with one digit in each row.   
+
 2. Create a dataframe that indicated the x- and y-locations for each digit. This step is a bit tricky... Basically draw a circle and split it up into equal parts and figure out the x- and y-distances for the center point of the circle to get there... This little legend below should help. 
+
 ![](/img/legend.png)
+
+
 3. Merge the dataframes from 1. and 2. 
+
 4. Plot the individual line segments via a for loop. Viola! 
 
 **First 11 digits of pi**
 
-![](/img/10pi.jpg)
+<img src="img/10pi.png" width="500">
 
 **First 101 digits of pi**
 
@@ -45,4 +51,4 @@ Process was quite simple.
 
 ![](/img/100000pi.jpg)
 
-You can find the R script to create these figures [here](github). 
+You can find the R script to create these figures [here](https://github.com/csqsiew/website/tree/master/content/Rcode). 
