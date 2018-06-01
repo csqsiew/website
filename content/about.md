@@ -14,7 +14,7 @@ I'm currently a post doctoral fellow at the University of Warwick, UK. I graduat
 
 I was trained as a psycholinguist, although increasingly I think of myself as a cognitive scientist who uses techniques from network science to study cognitive structures, such as the mental lexicon and semantic memory. This figure broadly captures what my research is about. 
 
-![](/img/jobtalk.png)
+<img src="/img/jobtalk.jpg" alt="Drawing" style="width: 500px;"/>  
 
 *1: Using network science methods to quantify the structure of cognitive networks and investigate how structure affects processing.* (bottom arrow)
 
