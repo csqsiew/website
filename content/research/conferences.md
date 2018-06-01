@@ -10,6 +10,16 @@ description = "Chronological list of conference posters and academic presentatio
 showpagemeta = false
 +++
 
+**2018**
+
+Siew, C. S. Q. (2018, May). The influence of closeness centrality on visual word recognition. Talk presented at the International Meeting of the Psychonomic Society. Amsterdam, Netherlands. 
+
+* [Slides](https://osf.io/pxs84/)
+
+Siew, C. S. Q., & Hills, T. T. (2018, April). The Small World of Psychology: Exploring the knowledge structure of psychology undergraduates. Talk presented at Data Natives. City University, London.
+
+Siew, C. S. Q. (2018, March). A brief introduction to network analysis. Talk presented to the Engineering Psychology Group, WMG. University of Warwick, Coventry, UK. 
+
 **2017**
 
 Siew, C. S. Q. (2017, November). Using network science to study the orthographic language network of English. Poster presented at the 6th International Conference on Complex Networks and Their Applications. Lyon, France.

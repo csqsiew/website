@@ -12,6 +12,8 @@ showpagemeta = false
 
 **Peer-Reviewed Articles** 
 
+Siew, C. S. Q. (in press). The orthographic similarity structure of English words. Insights from network science. *Applied Network Science.*
+
 Siew, C. S. Q., Pelczarski, K., Yaruss, J. S., & Vitevitch, M. S. (2017). Using the OASES-A to illustrate how network analysis can be applied to understand the experience of stuttering. *Journal of Communication Disorders, 65*, 1-9.   
 [Article](http://www.sciencedirect.com/science/article/pii/S0021992416301782) | [Popular press article](http://atlasofscience.org/a-network-of-stuttering/)
 
