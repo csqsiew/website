@@ -12,11 +12,20 @@ showpagemeta = false
 
 **2018**
 
+Siew, C. S. Q. (2018, June). Simulating the accumulation of partial activation in the phonological language network. Poster to be presented at NetSci 2018. Paris, France.
+
+* [Download poster](https://drive.google.com/file/d/1YTyqNFD8j8jcgvZW6Cpa_bOCYJr1su9w/view)
+
+Siew, C. S. Q. (2018, June). Investigating the influence of similarity structure of language networks on visual word recognition: Insights from megastudies. Talk to be presented at Cognitive Network Science 2018. Paris, France. 
+
+Siew, C. S. Q., & Hills, T. T. (2018, June). The "Small World" of Psychology: How do novices and experts
+represent their conceptual knowledge structure of psychological science? Talk to be presented at NetSciEd 2018. Paris, France.
+
 Siew, C. S. Q. (2018, May). The influence of closeness centrality on visual word recognition. Talk presented at the International Meeting of the Psychonomic Society. Amsterdam, Netherlands. 
 
 * [Slides](https://osf.io/pxs84/)
 
-Siew, C. S. Q., & Hills, T. T. (2018, April). The Small World of Psychology: Exploring the knowledge structure of psychology undergraduates. Talk presented at Data Natives. City University, London.
+Siew, C. S. Q. (2018, April). The Small World of Psychology: Exploring the knowledge structure of psychology undergraduates. Talk presented at Data Natives. City University, London.
 
 Siew, C. S. Q. (2018, March). A brief introduction to network analysis. Talk presented to the Engineering Psychology Group, WMG. University of Warwick, Coventry, UK. 
 
