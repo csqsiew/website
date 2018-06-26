@@ -12,7 +12,8 @@ showpagemeta = false
 
 **Peer-Reviewed Articles** 
 
-Siew, C. S. Q. (in press). The orthographic similarity structure of English words. Insights from network science. *Applied Network Science.*
+Siew, C. S. Q. (2018). The orthographic similarity structure of English words. Insights from network science. *Applied Network Science.*
+[Open-Access Article](https://rdcu.be/1TxE)
 
 Siew, C. S. Q., Pelczarski, K., Yaruss, J. S., & Vitevitch, M. S. (2017). Using the OASES-A to illustrate how network analysis can be applied to understand the experience of stuttering. *Journal of Communication Disorders, 65*, 1-9.   
 [Article](http://www.sciencedirect.com/science/article/pii/S0021992416301782) | [Popular press article](http://atlasofscience.org/a-network-of-stuttering/)
@@ -30,7 +31,7 @@ Siew, C. S. Q. & Vitevitch, M.S. (2016). Spoken word recognition and serial reca
 [Article](http://dx.doi.org/10.1037/xlm0000139)
 
 Vitevitch, M. S., Siew, C. S. Q., Castro, N., Goldstein, R., Gharst, J. A., Kumar, J. J., & Boos, E. B. (2015). Speech error and tip of the tongue diary for mobile devices. *Frontiers in Psychology, 6*, 1190.  
-[Article](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01190/abstract) | [KU Press Release](http://today.ku.edu/2015/07/30/web-based-tool-enables-public-track-tip-tongue-states-and-speech-errors) | Contribute your speech errors [here](http://spedi.ku.edu/)!
+[Open-Access Article](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01190/abstract) | [KU Press Release](http://today.ku.edu/2015/07/30/web-based-tool-enables-public-track-tip-tongue-states-and-speech-errors) | Contribute your speech errors [here](http://spedi.ku.edu/)!
 
 Siew, C. S. Q. (2013). Community structure in the phonological network. *Frontiers in Psychology, 4*, 553.  
-[Article](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00553/abstract)
+[Open-Access Article](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00553/abstract)
