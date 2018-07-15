@@ -35,7 +35,7 @@ I was trained as a psycholinguist, although increasingly I think of myself as a 
 
 ***
 
-OK, enough of the serious stuff. When I'm not doing research, I'm either out climbing, strumming my ukulele, or taking a _really_ long nap. Sometimes I work on random things like making 3-d models of networks. Here is a shameless plug for my **[Shapeways](https://www.shapeways.com/shops/csqsiew)** and **Redbubble(https://www.redbubble.com/people/csqsiew)** shop.
+OK, enough of the serious stuff. When I'm not doing research, I'm either out climbing, strumming my ukulele, or taking a _really_ long nap. Sometimes I work on random things like making 3-d models of networks. Here is a shameless plug for my **[Shapeways](https://www.shapeways.com/shops/csqsiew)** and **[Redbubble](https://www.redbubble.com/people/csqsiew)** shops.
 
 ***
 
