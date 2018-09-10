@@ -35,3 +35,10 @@ Vitevitch, M. S., Siew, C. S. Q., Castro, N., Goldstein, R., Gharst, J. A., Kuma
 
 Siew, C. S. Q. (2013). Community structure in the phonological network. *Frontiers in Psychology, 4*, 553.  
 [Open-Access Article](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00553/abstract)
+
+**Other Publications** 
+
+Hills, T. T., & Siew, C. S. Q. (2018). Filling Gaps in Early Word Learning. *Nature Human Behavior, 2*, 662-663.   
+
+Vitevitch, M. S., Siew, C. S. Q., & Castro, N. (2018). Spoken Word Recognition. In S. A. Rueschemeyer & G. Gaskell (Eds.), *The Oxford Handbook of Psycholinguistics, 2nd Ed.* (pp. 31-47). Oxford, United Kingdom.
+

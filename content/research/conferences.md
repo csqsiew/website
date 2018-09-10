@@ -12,9 +12,9 @@ showpagemeta = false
 
 **2018**
 
-Siew, C. S. Q. (2018, June). Simulating the accumulation of partial activation in the phonological language network. Poster presented at NetSci 2018. Paris, France.
+Siew, C. S. Q. (2018, September). Investigating the influence of similarity structure of language networks on visual word recognition: Insights from megastudies. Poster presented at AMLaP 2018. Berlin, Germany.  
 
-* [Download poster](https://drive.google.com/file/d/1YTyqNFD8j8jcgvZW6Cpa_bOCYJr1su9w/view)
+Siew, C. S. Q. (2018, June). Simulating the accumulation of partial activation in the phonological language network. Poster presented at NetSci 2018. Paris, France.
 
 Siew, C. S. Q. (2018, June). Investigating the influence of similarity structure of language networks on visual word recognition: Insights from megastudies. Talk presented at Cognitive Network Science 2018. Paris, France. 
 
@@ -25,21 +25,17 @@ Siew, C. S. Q. (2018, May). The influence of closeness centrality on visual word
 
 * [Slides](https://osf.io/pxs84/)
 
-Siew, C. S. Q. (2018, April). The Small World of Psychology: Exploring the knowledge structure of psychology undergraduates. Talk presented at Data Natives. City University, London.
+Siew, C. S. Q. (2018, April). The Small World of Psychology: Exploring the knowledge structure of psychology undergraduates. Talk presented at Data Natives. City University, London.  
 
-Siew, C. S. Q. (2018, March). A brief introduction to network analysis. Talk presented to the Engineering Psychology Group, WMG. University of Warwick, Coventry, UK. 
+Siew, C. S. Q. (2018, March). A brief introduction to network analysis. Talk presented to the Engineering Psychology Group, WMG. University of Warwick, Coventry, UK.   
 
 **2017**
 
-Siew, C. S. Q. (2017, November). Using network science to study the orthographic language network of English. Poster presented at the 6th International Conference on Complex Networks and Their Applications. Lyon, France.
+Siew, C. S. Q. (2017, November). Using network science to study the orthographic language network of English. Poster presented at the 6th International Conference on Complex Networks and Their Applications. Lyon, France.  
 
-* [Download poster](https://drive.google.com/open?id=1R3QF7yUKZMiZHCnoM84VzB609Vqg6ola)
+Siew, C. S. Q., & Vitevitch, M. S. (2017, November). The Phonographic Network of Language: Using Network Science to Investigate the Phonological and Orthographic Similarity Structure of Language. Poster presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.  
 
-Siew, C. S. Q., & Vitevitch, M. S. (2017, November). The Phonographic Network of Language: Using Network Science to Investigate the Phonological and Orthographic Similarity Structure of Language. Poster presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
-
-* [Download poster](https://drive.google.com/open?id=1rme8fx2jDRVRX30lpEmWjovlk9aJMAhY)
-
-Chan, K. Y., & Siew, C. S. Q. (2017, November). Dynamics of Lexical Competition during Foreign-Accented Word Recognition. Poster presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.
+Chan, K. Y., & Siew, C. S. Q. (2017, November). Dynamics of Lexical Competition during Foreign-Accented Word Recognition. Poster presented at the 58th Annual Meeting of the Psychonomic Society. Vancouver, Canada.  
 
 Covey, L., Girolamo, T., Siew, C. S. Q., Weyers, I., Yang, X., Vogt-Woodin, A., Coughlin, C., & Minai, U. (2017, November). Examining the role of pragmatics during children's comprehension of only: An eye-tracking study. Poster to be presented at the 42nd Boston University Conference on Language Development. Boston, MA.
 

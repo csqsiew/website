@@ -24,7 +24,7 @@ I was trained as a psycholinguist, although increasingly I think of myself as a 
 
 *2: Using behavioral data to infer the structure of cognitive networks (top arrow)*
 
-* Using fluency and association data from students and experts to infer their knowledge structure of a given domain ([Small World of Psychology](https://csqsiew.netlify.com/studies/swopf/); [Complex Forma Mentis](http://complexmentis.altervista.org/team/))
+* Using fluency and association data from students and experts to infer their knowledge structure of a given domain ([Small World of Psychology](https://csqsiew.netlify.com/studies/swopf/); [Complex Forma Mentis](http://www.complexmentis.com/team/))
 * Using phonological associations to study changes in the structure of the ageing phonological network and the bilingual phonological network
 * Survey responses to construct correlation (statistical) networks (eating disorder symptom network, experience of stuttering network)
 
