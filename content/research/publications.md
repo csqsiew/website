@@ -39,6 +39,7 @@ Siew, C. S. Q. (2013). Community structure in the phonological network. *Frontie
 **Other Publications** 
 
 Hills, T. T., & Siew, C. S. Q. (2018). Filling Gaps in Early Word Learning. *Nature Human Behavior, 2*, 662-663.   
+[Article](https://www.nature.com/articles/s41562-018-0428-y)  
 
 Vitevitch, M. S., Siew, C. S. Q., & Castro, N. (2018). Spoken Word Recognition. In S. A. Rueschemeyer & G. Gaskell (Eds.), *The Oxford Handbook of Psycholinguistics, 2nd Ed.* (pp. 31-47). Oxford, United Kingdom.
 
