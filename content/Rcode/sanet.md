@@ -12,7 +12,7 @@ showpagemeta = false
     
 *sanetr: A R package to simulate spreading activation in a network*
 
-*Edit: I get to work on the paper and package some more! "Major revisions" are requested. Check out the new package [here](https://github.com/csqsiew/spreadr) Hopefully I'll have some good news in a few months.*    
+*Edit: I get to work on the paper and package some more! "Major revisions" are requested. Check out the new package [here](https://github.com/csqsiew/spreadr). Hopefully I'll have some good news in a few months.*    
 --CS (Oct 2018)
 
 The notion of spreading activation is a prevalent metaphor in the cognitive sciences; however, the tools to implement spreading activation in a computational simulation are not as readily available. Recently I submitted a paper that introduces the `sanetr` R package, which can implement spreading activation within a specified network structure. The algorithmic method implemented in `sanet` subroutines followed the approach described in Vitevitch, Ercal, and Adagarla (2011), who viewed activation as a fixed cognitive resource that could “spread” among connected nodes in a network. 
