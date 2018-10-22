@@ -6,11 +6,21 @@ draft = false
 slug = ""
 tags = ""
 title = "Publications"
-description = "A list of peer-reviewed publications"
+description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
+**Pre-prints**
+
+Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. https://doi.org/10.31234/osf.io/eu9tr    
+[PsyArxiv](https://psyarxiv.com/eu9tr)
+
+McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *JMIR Preprints.* 19/10/2018:12555      
+[JIMR Preprint](https://preprints.jmir.org/preprint/12555)
+
 **Peer-Reviewed Articles** 
+
+Siew, C. S. Q. (in press). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.*    
 
 Siew, C. S. Q. (2018). The orthographic similarity structure of English words. Insights from network science. *Applied Network Science.*    
 [Open-Access Article](https://rdcu.be/1TxE)
