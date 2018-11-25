@@ -20,6 +20,10 @@ McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Pro
 
 **Peer-Reviewed Articles** 
 
+Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (accepted). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*     
+
+Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (accepted). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.*    
+
 Siew, C. S. Q. (in press). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.*    
 
 Siew, C. S. Q. (2018). The orthographic similarity structure of English words. Insights from network science. *Applied Network Science.*    

@@ -10,9 +10,17 @@ description = "Chronological list of conference posters and academic presentatio
 showpagemeta = false
 +++
 
-**2018**
+**2018**    
 
-Siew, C. S. Q. (2018, September). Investigating the influence of similarity structure of language networks on visual word recognition: Insights from megastudies. Poster presented at AMLaP 2018. Berlin, Germany.  
+Siew, C. S. Q. (2018, November). Investigating the influence of orthographic and phonological similarity structure of language networks on visual word recognition: Insights from megastudies. Poster presented at the 59th Annual Meeting of the Psychonomic Society. New Orleans, Louisiana.      
+
+Siew, C. S. Q. (2018, November). Using network science to understand the mental lexicon. Developmental Psychology Seminar. University of Oxford, Oxford, UK.     
+
+Siew, C. S. Q. (2018, September). Using network science to understand the mental lexicon. Bridges Conference on Quantitative Approaches to Language Studies. University of Warwick, Coventry, UK.     
+
+Siew, C. S. Q. (2018, September). Spreading activation in a language network. Language and Learning Away Day. University of Warwick, Coventry, UK.     
+
+Siew, C. S. Q. (2018, September). Investigating the influence of similarity structure of language networks on visual word recognition: Insights from megastudies. Poster presented at AMLaP 2018. Berlin, Germany.     
 
 Siew, C. S. Q. (2018, June). Simulating the accumulation of partial activation in the phonological language network. Poster presented at NetSci 2018. Paris, France.
 
