@@ -10,6 +10,8 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
+View my CV [here.](https://www.dropbox.com/s/l3bdgkxzrcpahmn/Siew_CV_Dec2018.pdf?dl=0)     
+
 **Pre-prints**
 
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. https://doi.org/10.31234/osf.io/eu9tr    
@@ -20,9 +22,9 @@ McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Pro
 
 **Peer-Reviewed Articles** 
 
-Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (accepted). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*     
+Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*     
 
-Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (accepted). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.*    
+Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (in press). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.*    
 
 Siew, C. S. Q. (in press). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.*    
 
