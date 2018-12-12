@@ -12,6 +12,8 @@ showpagemeta = false
 
 **2018**    
 
+Siew, C. S. Q. (2018, December). Quantifying the similarity structure of the mental lexicon using network science. Royal Holloway, University of London, Egham, UK.     
+
 Siew, C. S. Q. (2018, November). Investigating the influence of orthographic and phonological similarity structure of language networks on visual word recognition: Insights from megastudies. Poster presented at the 59th Annual Meeting of the Psychonomic Society. New Orleans, Louisiana.      
 
 Siew, C. S. Q. (2018, November). Using network science to understand the mental lexicon. Developmental Psychology Seminar. University of Oxford, Oxford, UK.     

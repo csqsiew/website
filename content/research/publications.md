@@ -23,7 +23,7 @@ McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Pro
 **Peer-Reviewed Articles** 
 
 Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods.*    
-[R package](https://cran.r-project.org/web/packages/spreadr/index.html)     
+[R package](https://cran.r-project.org/web/packages/spreadr/index.html) | [Blog post](https://csqsiew.netlify.com/rcode/spreadr/)       
 
 Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*      
 [The Macroscope](http://www.macroscope.tech/)      
