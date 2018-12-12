@@ -15,22 +15,23 @@ View my CV [here.](https://www.dropbox.com/s/l3bdgkxzrcpahmn/Siew_CV_Dec2018.pdf
 **Pre-prints**
 
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. https://doi.org/10.31234/osf.io/eu9tr    
-[PsyArxiv](https://psyarxiv.com/eu9tr){:target="_blank"}
+[PsyArxiv](https://psyarxiv.com/eu9tr){:target="_blank"}    
 
 McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *JMIR Preprints.* 19/10/2018:12555      
-[JIMR Preprint](https://preprints.jmir.org/preprint/12555){target="_blank"}
+[JIMR Preprint](https://preprints.jmir.org/preprint/12555)    
 
 **Peer-Reviewed Articles** 
 
-Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods.*   
-[R package]()
+Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods.*    
+[R package](https://cran.r-project.org/web/packages/spreadr/index.html)     
 
-Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*     
+Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*
+[The Macroscope](http://www.macroscope.tech/)    
 
-Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (in press). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.*    
+Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (in press). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.*     
 
-Siew, C. S. Q. (in press). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.*    
-[Article]()
+Siew, C. S. Q. (2018). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.* 1-7. https://doi.org/10.1002/acp.3484      
+[Article](https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3484)
 
 Siew, C. S. Q. (2018). The orthographic similarity structure of English words. Insights from network science. *Applied Network Science.*    
 [Open-Access Article](https://rdcu.be/1TxE)
