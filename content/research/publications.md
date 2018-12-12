@@ -15,12 +15,14 @@ View my CV [here.](https://www.dropbox.com/s/l3bdgkxzrcpahmn/Siew_CV_Dec2018.pdf
 **Pre-prints**
 
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. https://doi.org/10.31234/osf.io/eu9tr    
-[PsyArxiv](https://psyarxiv.com/eu9tr_blank)
+[PsyArxiv](https://psyarxiv.com/eu9tr){target="_blank"}
 
 McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *JMIR Preprints.* 19/10/2018:12555      
-[JIMR Preprint](https://preprints.jmir.org/preprint/12555_blank)
+[JIMR Preprint](https://preprints.jmir.org/preprint/12555){target="_blank"}
 
 **Peer-Reviewed Articles** 
+
+Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation in a network. Behavior Research Methods. 
 
 Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*     
 
