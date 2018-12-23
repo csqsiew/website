@@ -10,7 +10,8 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/l3bdgkxzrcpahmn/Siew_CV_Dec2018.pdf?dl=0)     
+View my CV [here.](https://www.dropbox.com/s/l3bdgkxzrcpahmn/Siew_CV_Dec2018.pdf?dl=0)  
+[Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)    
 
 **Pre-prints**
 
