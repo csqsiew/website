@@ -12,7 +12,7 @@ showpagemeta = false
 
 I'm currently a post doctoral fellow at the University of Warwick, UK. I graduated from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017 and completed my undergraduate degree in Psychology at the National University of Singapore in 2011. 
 
-I'm trained as a psycholinguist, although increasingly I think of myself as a cognitive scientist who uses techniques from network science to study cognitive structures, such as the mental lexicon and semantic memory. This figure is a feeble attempt that tries to capture what my research is about.   
+I'm trained as a psycholinguist, although increasingly I think of myself as a cognitive scientist who uses techniques from network science to study cognitive structures, such as the mental lexicon and semantic memory. This figure captures what my research is about.   
 
 <img src="/img/jobtalk.jpg" alt="Drawing" style="width: 600px;"/>  
 
@@ -20,12 +20,12 @@ I'm trained as a psycholinguist, although increasingly I think of myself as a co
 
 * How does the similarity structure of the mental lexicon (the part of long-term memory that stores phonological and orthographic representations) influence spoken and visual word recognition? 
 * How does the structure of the phonological and semantic language network affect word learning and language acquisition? 
-* How does the structure of the semantic language network affect semantic processing? 
+* How does the structure of the semantic language network affect semantic processing and processing of humor? 
 
 *2: Using behavioral data to infer the structure of cognitive networks (top arrow)*
 
 * Using fluency and association data from students and experts to infer their knowledge structure of a given domain ([Small World of Psychology](https://csqsiew.netlify.com/studies/swopf/); [Complex Forma Mentis](http://www.complexmentis.com/team/))
-* Using phonological associations to study changes in the structure of the ageing phonological network and the  phonological network of bilinguals and second language learners   
+* Using phonological associations to study changes in the structure of the ageing phonological and semantic networks and the  phonological network of bilinguals and second language learners   
 * Survey responses to construct correlation (statistical) networks (eating disorder symptom network, experience of stuttering network)  
 
 *3: Tying it altogether (middle arrow)*
