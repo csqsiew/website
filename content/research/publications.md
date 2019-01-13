@@ -35,7 +35,7 @@ Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation
 Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*      
 [The Macroscope](http://www.macroscope.tech/)      
 
-Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (2018). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.* Advance online publication. DOI: 10.1037/stl0000133       
+Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (2019). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.* Advance online publication. DOI: 10.1037/stl0000133       
 [Open-Access Article](http://psycnet.apa.org/fulltext/2019-01035-001.pdf)        
 
 Siew, C. S. Q. (2018). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.* 1-7. DOI: 10.1002/acp.3484      
