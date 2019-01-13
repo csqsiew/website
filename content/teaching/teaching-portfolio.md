@@ -21,11 +21,11 @@ showpagemeta = false
 
 Student Evaluations:
 
-* [Summary](https://drive.google.com/file/d/0B9avdxE0Z_BeOHJ1cHJLLUpBU2c/view) of Student Evaluations (Fall 2015/Spring 2016/Fall 2016)
+* [Summary](https://drive.google.com/file/d/1yRbRjSJw_693p8NLMoIczYWcKJZOCUhl/view?usp=sharing) of Student Evaluations (Fall 2015/Spring 2016/Fall 2016/Spring 2017)
 * [Fall 2015](https://drive.google.com/file/d/0B9avdxE0Z_BeX2E3eUx5UFNwSU0/view) (KU Student Survey of Teaching)
 * [Spring 2016](https://drive.google.com/file/d/0B9avdxE0Z_BeMTNUdU95LUp5dm8/view) (KU Student Survey of Teaching)
 * [Fall 2016](https://drive.google.com/file/d/0B9avdxE0Z_BedEh3MHgwUThwMms/view) (KU Student Survey of Teaching)
-* Spring 2017 (KU Student Survey of Teaching) - forthcoming 
+* [Spring 2017](https://drive.google.com/file/d/1tib8kZJPawCFcaBasPW-7wCQi3k6xEA8/view?usp=sharing) (KU Student Survey of Teaching)     
 
 Sample Lesson Plans:
 
@@ -47,7 +47,7 @@ Scholarship of Teaching and Learning Posters from PSYC 104:
 
 Student Evaluations: 
 
-* [Summary](https://drive.google.com/file/d/0B9avdxE0Z_BeMVNnSW5yakJDOGs/view) of Student Evaluations (Summer 2016)
+* [Summary](https://drive.google.com/file/d/1ZFa0KgbXwVDhW-fHvI34_BNqJ6u8TJsG/view?usp=sharing) of Student Evaluations (Summer 2016)
 * [Summer 2016](https://drive.google.com/file/d/0B9avdxE0Z_BeTUthZVlfRFNmTTA/view) (KU Student Survey of Teaching)
 
 ***

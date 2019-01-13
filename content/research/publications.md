@@ -10,7 +10,7 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/l3bdgkxzrcpahmn/Siew_CV_Dec2018.pdf?dl=0)  
+View my CV [here.](https://www.dropbox.com/s/gn6jucjs3n6b6xl/Siew_CV_Jan2019.pdf?dl=0)     
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
@@ -20,7 +20,10 @@ Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cogni
 [PsyArxiv](https://psyarxiv.com/eu9tr)       
 
 McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *JMIR Preprints.* 19/10/2018:12555 DOI: 10.2196/preprints.12555            
-[JIMR Preprint](https://preprints.jmir.org/preprint/12555)       
+[JIMR Preprint](https://preprints.jmir.org/preprint/12555)        
+
+Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.      
+[OSF Preprint](https://osf.io/ve7k3/)     
 
 **Peer-Reviewed Articles** 
 
@@ -32,7 +35,8 @@ Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation
 Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*      
 [The Macroscope](http://www.macroscope.tech/)      
 
-Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (in press). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.*     
+Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (2018). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.* Advance online publication. DOI: 10.1037/stl0000133       
+[Open-Access Article](http://psycnet.apa.org/fulltext/2019-01035-001.pdf)        
 
 Siew, C. S. Q. (2018). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.* 1-7. DOI: 10.1002/acp.3484      
 [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3484)
@@ -46,7 +50,7 @@ Siew, C. S. Q., Pelczarski, K., Yaruss, J. S., & Vitevitch, M. S. (2017). Using 
 Siew, C. S. Q. (2017). The influence of 2-hop network density on spoken word recognition. *Psychonomic Bulletin and Review, 24*(2), 496-502. DOI: 10.3758/s13423-016-1103-9      
 [Article](https://link.springer.com/article/10.3758%2Fs13423-016-1103-9) | [KU ScholarWorks](https://kuscholarworks.ku.edu/handle/1808/21111)
 
-Vitevitch, M. S. & Siew, C. S. Q. (2017). Estimating group size from human speech: Three’s a conversation, but four’s a crowd. *The Quarterly Journal of Experimental Psychology, 70*(1), 62-74. DOI: 10.1080/17470218.2015.1122070      
+Vitevitch, M. S. & Siew, C. S. Q. (2017). Estimating group size from human speech: Three’s a conversation, but four’s a crowd. *The Quarterly Journal of Experimental Psychology, 70*(1), 62-74. DOI: 10.1080\/17470218.2015.1122070      
 [Article](http://www.tandfonline.com/doi/abs/10.1080/17470218.2015.1122070)
 
 Forbush, K. T., Siew, C. S. Q., & Vitevitch, M. S. (2016). Application of network analysis to identify interactive systems of eating disorder psychopathology. *Psychological Medicine, 46*(12), 2667-2677. DOI: 10.1017/S003329171600012X     
