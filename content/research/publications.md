@@ -19,7 +19,7 @@ Feel free to email me for reprints of any of the articles below.
 Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.       
 [OSF Preprint](https://osf.io/ve7k3/)      
 
-Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. DOI: 10.31234/osf.io/eu9tr         
+Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics.        
 [PsyArxiv](https://psyarxiv.com/eu9tr)       
 
 Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019, February 21). Forma mentis networks quantify crucial differences in STEM perception between students and experts.     
@@ -31,18 +31,19 @@ Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consorti
 **Peer-Reviewed Articles** 
 
 McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (in press). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *Journal of Medical Internet Research: Mental Health.*         
-[Preprint](https://preprints.jmir.org/preprint/12555/accepted)     
+[Accepted Article](https://preprints.jmir.org/preprint/12555/accepted)     
 
-Siew, C. S. Q. & Vitevitch, M. S. (2019). The phonographic language network: Using network science to investigate the phonological and orthographic similarity structure of language. *Journal of Experimental Psychology: General.*      
+Siew, C. S. Q. & Vitevitch, M. S. (2019). The phonographic language network: Using network science to investigate the phonological and orthographic similarity structure of language. *Journal of Experimental Psychology: General, 148*(3), 475-500. DOI: 10.1037/xge0000575          
+[Article](https://psycnet.apa.org/record/2019-09217-003)     
 
-Siew, C. S. Q. (2019). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods,* 1-20. DOI:         
-[R package](https://cran.r-project.org/web/packages/spreadr/index.html) | [Blog post](https://csqsiew.netlify.com/rcode/spreadr/)       
+Siew, C. S. Q. (2019). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods,* 1-20. DOI: 10.3758/s13428-018-1186-5              
+[Open-Access Article](https://link.springer.com/article/10.3758/s13428-018-1186-5) | [R package](https://cran.r-project.org/web/packages/spreadr/index.html) | [Blog post](https://csqsiew.netlify.com/rcode/spreadr/)       
 
-Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (2019). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods,* 1-14. DOI:             
-[The Macroscope](http://www.macroscope.tech/)      
+Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (2019). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods,* 1-14. DOI: 10.3758/s13428-018-1177-6                   
+[Open-Access Article](https://link.springer.com/article/10.3758/s13428-018-1177-6) | [The Macroscope](http://www.macroscope.tech/)      
 
 Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (2019). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.* Advance online publication. DOI: 10.1037/stl0000133       
-[Open-Access Article](http://psycnet.apa.org/fulltext/2019-01035-001.pdf)        
+[Open-Access Article](http://psycnet.apa.org/fulltext/2019-01035-001.pdf) | [KU Press Release](http://today.ku.edu/2018/12/21/statistics-anxiety-real-and-new-research-suggests-targeted-ways-handle-it)            
 
 Siew, C. S. Q. (2018). Using network science to analyze concept maps of psychology undergraduates. *Applied Cognitive Psychology.* 1-7. DOI: 10.1002/acp.3484      
 [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3484)
