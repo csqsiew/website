@@ -10,6 +10,12 @@ description = "Chronological list of conference posters and academic presentatio
 showpagemeta = false
 +++
 
+**2019**
+
+Siew, C. S. Q. (2019, March). Using network science to understand the mental lexicon. International Convention of Psychological Science, Paris, France.     
+
+Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2019, March). Humorous Phrases Generator: A Citizen Science Project to Provide Insights into the Mechanisms of Humor. Poster presented at International Convention of Psychological Science, Paris, France.     
+
 **2018**    
 
 Siew, C. S. Q. (2018, December). Quantifying the similarity structure of the mental lexicon using network science. Royal Holloway, University of London, Egham, UK.     

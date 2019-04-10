@@ -10,29 +10,35 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/gn6jucjs3n6b6xl/Siew_CV_Jan2019.pdf?dl=0)     
+View my CV [here.](https://www.dropbox.com/s/6udfglvwtwi8v0t/Siew_CV_19Mar2019.pdf?dl=0)     
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
 **Pre-prints**
 
+Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.       
+[OSF Preprint](https://osf.io/ve7k3/)      
+
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. DOI: 10.31234/osf.io/eu9tr         
 [PsyArxiv](https://psyarxiv.com/eu9tr)       
 
-McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2018). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *JMIR Preprints.* 19/10/2018:12555 DOI: 10.2196/preprints.12555            
-[JIMR Preprint](https://preprints.jmir.org/preprint/12555)        
+Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019, February 21). Forma mentis networks quantify crucial differences in STEM perception between students and experts.     
+[PsyArxiv](https://doi.org/10.31234/osf.io/7ewn9)      
 
-Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.      
-[OSF Preprint](https://osf.io/ve7k3/)     
+Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium* (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (2019, February 28). New Perspectives on the Aging Lexicon.        
+[PsyArxiv](https://psyarxiv.com/envsu/)        
 
 **Peer-Reviewed Articles** 
 
-Siew, C. S. Q. & Vitevitch, M. S. (in press). The phonographic language network: Using network science to investigate the phonological and orthographic similarity structure of language. *Journal of Experimental Psychology: General.*      
+McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (in press). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *Journal of Medical Internet Research: Mental Health.*         
+[Preprint](https://preprints.jmir.org/preprint/12555/accepted)     
 
-Siew, C. S. Q. (in press). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods.*    
+Siew, C. S. Q. & Vitevitch, M. S. (2019). The phonographic language network: Using network science to investigate the phonological and orthographic similarity structure of language. *Journal of Experimental Psychology: General.*      
+
+Siew, C. S. Q. (2019). spreadr: A R package to simulate spreading activation in a network. *Behavior Research Methods,* 1-20. DOI:         
 [R package](https://cran.r-project.org/web/packages/spreadr/index.html) | [Blog post](https://csqsiew.netlify.com/rcode/spreadr/)       
 
-Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (in press). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods.*      
+Li, Y., Engelthaler, T., Siew, C. S. Q., & Hills, T. T. (2019). The Macroscope: A tool to examine the historical structure of language. *Behavior Research Methods,* 1-14. DOI:             
 [The Macroscope](http://www.macroscope.tech/)      
 
 Siew, C. S. Q., McCartney, M. J., & Vitevitch, M. S. (2019). Using network science to understand statistics anxiety among college students. *Scholarship of Teaching and Learning in Psychology.* Advance online publication. DOI: 10.1037/stl0000133       
