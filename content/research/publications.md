@@ -17,10 +17,7 @@ Feel free to email me for reprints of any of the articles below.
 **Pre-prints**
 
 Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.       
-[OSF Preprint](https://osf.io/ve7k3/)      
-
-Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2018, October 9). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics.        
-[PsyArxiv](https://psyarxiv.com/eu9tr)       
+[OSF Preprint](https://osf.io/ve7k3/)       
 
 Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019, February 21). Forma mentis networks quantify crucial differences in STEM perception between students and experts.     
 [PsyArxiv](https://doi.org/10.31234/osf.io/7ewn9)      
@@ -30,8 +27,11 @@ Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consorti
 
 **Peer-Reviewed Articles** 
 
+Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (in press). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. *Complexity.*            
+[Accepted Paper](https://psyarxiv.com/eu9tr)      
+
 McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (in press). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *Journal of Medical Internet Research: Mental Health.*         
-[Accepted Article](https://preprints.jmir.org/preprint/12555/accepted)     
+[Accepted Paper](https://preprints.jmir.org/preprint/12555/accepted)     
 
 Siew, C. S. Q. & Vitevitch, M. S. (2019). The phonographic language network: Using network science to investigate the phonological and orthographic similarity structure of language. *Journal of Experimental Psychology: General, 148*(3), 475-500. DOI: 10.1037/xge0000575          
 [Article](https://psycnet.apa.org/record/2019-09217-003)     
