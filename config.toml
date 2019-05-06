@@ -24,7 +24,7 @@ theme = "hugo-goa"
 author = "Cynthia S. Q. Siew"
 intro = "Psycholinguist who studies language networks."
 description = "Incoming Assistant Professor at the National University of Singapore,<br/>but once a Jayhawk, always a Jayhawk."
-authorimage = "profile2.jpg"
+authorimage = "Siew.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings

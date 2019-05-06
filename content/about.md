@@ -24,14 +24,14 @@ I'm a psycholinguist and cognitive scientist who uses techniques from network sc
 * How does the structure of phonological and semantic language networks affect word learning and language acquisition among monolinguals, bilinguals, and second language learners? 
 * How can we develop models that quantify the structure of the lexicon over the lifespan in order to help us disentangle process effects from effects due to structural change? 
 
-<img src="/img/this_one.png" alt="Drawing" style="width: 300px;"/>  
+<img src="/img/this_one.png" alt="Drawing" class="center" style="width: 400px;"/>  
 
 ***
 
-OK, enough of the serious stuff. When I'm not doing research, I'm either climbing, strumming my ukulele, or taking a _really_ long nap. Sometimes I work on random things like making 3-d models of networks. Here is a shameless plug for my **[Shapeways](https://www.shapeways.com/shops/csqsiew)** and **[Redbubble](https://www.redbubble.com/people/csqsiew)** shops.   
+OK, enough of the serious stuff. When I'm not doing research, I'm either climbing, strumming my ukulele, or hanging out with Dougie the Corgi. Sometimes I work on random things like making 3-d models of networks. Here is a shameless plug for my **[Shapeways](https://www.shapeways.com/shops/csqsiew)** and **[Redbubble](https://www.redbubble.com/people/csqsiew)** shops.   
 
 ***
 
 * [ORCID](http://orcid.org/0000-0003-3384-7374)
 * [google scholar](https://scholar.google.com/citations?user=CviKcyUAAAAJ&hl=en&oi=ao)
-* [researchgate](https://www.researchgate.net/profile/Cynthia_Siew)
+* [ResearchGate](https://www.researchgate.net/profile/Cynthia_Siew)
