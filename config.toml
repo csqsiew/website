@@ -22,7 +22,7 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Cynthia S. Q. Siew"
-intro = "Psycholinguist studying language networks."
+intro = "Psycholinguist who studies language networks."
 description = "Incoming Assistant Professor at the National University of Singapore,<br/>but once a Jayhawk, always a Jayhawk."
 authorimage = "profile2.jpg"
 dateformat = "Jan 2, 2006"

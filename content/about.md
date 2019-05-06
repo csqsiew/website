@@ -14,19 +14,17 @@ I'm currently a post doctoral fellow at the University of Warwick, UK (and soon-
 
 I'm a psycholinguist and cognitive scientist who uses techniques from network science to study cognitive structures, such as the mental lexicon and semantic memory. My research uses a combination of experimental methods from cognitive psychology, computational modeling and mathematical methods from network science, and large-scale analysis of databases and linguistic corpora to address the following questions:    
 
-<img src="/img/this_one.png" alt="Drawing" style="width: 600px;"/>  
-
-*Theme 1: How does the structure of the lexicon influence processing?*
+**Theme 1: How does the structure of the lexicon influence processing?**
 
 * How does the similarity structure of the mental lexicon (the part of long-term memory that stores phonological and orthographic representations) influence spoken and visual word recognition? 
 * How does the structure of the semantic language network affect semantic processing and processing of humor? 
 
-*Theme 2: How does the structure of the lexicon change over time?*
+**Theme 2: How does the structure of the lexicon change over time?**
 
 * How does the structure of phonological and semantic language networks affect word learning and language acquisition among monolinguals, bilinguals, and second language learners? 
 * How can we develop models that quantify the structure of the lexicon over the lifespan in order to help us disentangle process effects from effects due to structural change? 
 
-<img src="/img/networks.png" alt="Drawing" style="width: 600px;"/>  
+<img src="/img/this_one.png" alt="Drawing" style="width: 300px;"/>  
 
 ***
 

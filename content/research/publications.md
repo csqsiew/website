@@ -30,7 +30,7 @@ Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consorti
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (in press). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. *Complexity.*            
 [Accepted Paper](https://psyarxiv.com/eu9tr)      
 
-McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2019). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *Journal of Medical Internet Research: Mental Health, 6*(4), e12555. DOI: 10.2196/12555          
+McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2019). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *Journal of Medical Internet Research: Mental Health, 6*(4), e12555. DOI: 10.2196\/12555          
 [Open-Access Article](https://mental.jmir.org/2019/4/e12555/)     
 
 Siew, C. S. Q. & Vitevitch, M. S. (2019). The phonographic language network: Using network science to investigate the phonological and orthographic similarity structure of language. *Journal of Experimental Psychology: General, 148*(3), 475-500. DOI: 10.1037/xge0000575          
