@@ -23,7 +23,7 @@ theme = "hugo-goa"
 [params]
 author = "Cynthia S. Q. Siew"
 intro = "Psycholinguist studying language networks."
-description = "Currently post doc-ing at the University of Warwick,<br/>but once a Jayhawk, always a Jayhawk."
+description = "Incoming Assistant Professor at the National University of Singapore,<br/>but once a Jayhawk, always a Jayhawk."
 authorimage = "profile2.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -38,11 +38,11 @@ github = "csqsiew"
 instagram = "csqsiew"
 linkedin = "csqsiew"
 twitter = "csqsiew"
-email = "cynsiewsq@gmail.com"
+email = "cynthia@nus.edu.sg"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. CSQ Siew." 
+copyright = "© 2019. CSQ Siew." 
 poweredby = true
 highlightjs = true
 

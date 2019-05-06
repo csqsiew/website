@@ -10,34 +10,30 @@ title = "About Me"
 showpagemeta = false
 +++
 
-I'm currently a post doctoral fellow at the University of Warwick, UK. I graduated from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017 and completed my undergraduate degree in Psychology at the National University of Singapore in 2011. 
+I'm currently a post doctoral fellow at the University of Warwick, UK (and soon-to-be an Assistant Professor at the National University of Singapore!). I graduated from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017 and completed my undergraduate degree in Psychology at the National University of Singapore in 2011. 
 
-I'm trained as a psycholinguist, although increasingly I think of myself as a cognitive scientist who uses techniques from network science to study cognitive structures, such as the mental lexicon and semantic memory. This figure captures what my research is about.   
+I'm a psycholinguist and cognitive scientist who uses techniques from network science to study cognitive structures, such as the mental lexicon and semantic memory. My research uses a combination of experimental methods from cognitive psychology, computational modeling and mathematical methods from network science, and large-scale analysis of databases and linguistic corpora to address the following questions:    
 
-<img src="/img/jobtalk.jpg" alt="Drawing" style="width: 600px;"/>  
+<img src="/img/this_one.png" alt="Drawing" style="width: 600px;"/>  
 
-*1: Using network science methods to quantify the structure of cognitive networks and investigate how structure affects processing (bottom arrow)*
+*Theme 1: How does the structure of the lexicon influence processing?*
 
 * How does the similarity structure of the mental lexicon (the part of long-term memory that stores phonological and orthographic representations) influence spoken and visual word recognition? 
-* How does the structure of the phonological and semantic language network affect word learning and language acquisition? 
 * How does the structure of the semantic language network affect semantic processing and processing of humor? 
 
-*2: Using behavioral data to infer the structure of cognitive networks (top arrow)*
+*Theme 2: How does the structure of the lexicon change over time?*
 
-* Using fluency and association data from students and experts to infer their knowledge structure of a given domain ([Small World of Psychology](https://csqsiew.netlify.com/studies/swopf/); [Complex Forma Mentis](http://www.complexmentis.com/team/))
-* Using phonological associations to study changes in the structure of the ageing phonological and semantic networks and the  phonological network of bilinguals and second language learners   
-* Survey responses to construct correlation (statistical) networks (eating disorder symptom network, experience of stuttering network)  
+* How does the structure of phonological and semantic language networks affect word learning and language acquisition among monolinguals, bilinguals, and second language learners? 
+* How can we develop models that quantify the structure of the lexicon over the lifespan in order to help us disentangle process effects from effects due to structural change? 
 
-*3: Tying it altogether (middle arrow)*
-
-* Computational work to draw explicit conceptual linkages between structure and process.
-* How can psychologists make use of the tools of network science to better understand how any cognitive process (e.g., lexical retrieval, word learning) operates within a given cognitive network? 
+<img src="/img/networks.png" alt="Drawing" style="width: 600px;"/>  
 
 ***
 
-OK, enough of the serious stuff. When I'm not doing research, I'm either out climbing, strumming my ukulele, or taking a _really_ long nap. Sometimes I work on random things like making 3-d models of networks. Here is a shameless plug for my **[Shapeways](https://www.shapeways.com/shops/csqsiew)** and **[Redbubble](https://www.redbubble.com/people/csqsiew)** shops.   
+OK, enough of the serious stuff. When I'm not doing research, I'm either climbing, strumming my ukulele, or taking a _really_ long nap. Sometimes I work on random things like making 3-d models of networks. Here is a shameless plug for my **[Shapeways](https://www.shapeways.com/shops/csqsiew)** and **[Redbubble](https://www.redbubble.com/people/csqsiew)** shops.   
 
 ***
 
 * [ORCID](http://orcid.org/0000-0003-3384-7374)
 * [google scholar](https://scholar.google.com/citations?user=CviKcyUAAAAJ&hl=en&oi=ao)
+* [researchgate](https://www.researchgate.net/profile/Cynthia_Siew)
