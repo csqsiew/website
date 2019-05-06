@@ -24,7 +24,7 @@ I'm a psycholinguist and cognitive scientist who uses techniques from network sc
 * How does the structure of phonological and semantic language networks affect word learning and language acquisition among monolinguals, bilinguals, and second language learners? 
 * How can we develop models that quantify the structure of the lexicon over the lifespan in order to help us disentangle process effects from effects due to structural change? 
 
-<img src="/img/this_one.png" alt="Drawing" class="center" style="width: 400px;"/>  
+<p align="center"><center><img src="/img/this_one.png" alt="Drawing" class="center" style="width: 400px;"/></center></p>  
 
 ***
 
