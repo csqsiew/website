@@ -19,13 +19,16 @@ Feel free to email me for reprints of any of the articles below.
 Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.       
 [OSF Preprint](https://osf.io/ve7k3/)       
 
+Siew, C. S. Q. (2019, May 23). Feature distinctiveness effects in language acquisition and lexical processing.      
+[PsyArxiv](https://psyarxiv.com/p45gf/)
+
 Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019, February 21). Forma mentis networks quantify crucial differences in STEM perception between students and experts.     
 [PsyArxiv](https://doi.org/10.31234/osf.io/7ewn9)      
 
-Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium* (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (2019, February 28). New Perspectives on the Aging Lexicon.        
-[PsyArxiv](https://psyarxiv.com/envsu/)        
-
 **Peer-Reviewed Articles** 
+
+Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (in press). New Perspectives on the Aging Lexicon. *Trends in Cognitive Sciences.*            
+[Accepted Paper](https://psyarxiv.com/envsu/)      
 
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (in press). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. *Complexity.*            
 [Accepted Paper](https://psyarxiv.com/eu9tr)      

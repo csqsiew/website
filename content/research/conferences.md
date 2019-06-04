@@ -12,6 +12,12 @@ showpagemeta = false
 
 **2019**
 
+Siew, C. S. Q. (2019, May). Listen Carefully: Auditory Illusions and Tricks. Pint of Science. Coventry, UK. [Public outreach].       
+
+Siew, C. S. Q. (2019, May). The building blocks of humor. Warwick Databeers. University of Warwick, Coventry, UK. [Public outreach].       
+
+Siew, C. S. Q. (2019, May). Quantifying the structure of the mental lexicon using network science. 2nd Warwick Postdoctoral Science Symposium. University of Warwick, Coventry, UK.      
+
 Siew, C. S. Q. (2019, March). Using network science to understand the mental lexicon. International Convention of Psychological Science, Paris, France.     
 
 Siew, C. S. Q., Engelthaler, T., & Hills, T. T. (2019, March). Humorous Phrases Generator: A Citizen Science Project to Provide Insights into the Mechanisms of Humor. Poster presented at International Convention of Psychological Science, Paris, France.     
