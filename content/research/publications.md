@@ -30,8 +30,8 @@ Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019, February 21). For
 Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (in press). New Perspectives on the Aging Lexicon. *Trends in Cognitive Sciences.*            
 [Accepted Paper](https://psyarxiv.com/envsu/)      
 
-Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (in press). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. *Complexity.*            
-[Accepted Paper](https://psyarxiv.com/eu9tr)      
+Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2019). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. *Complexity*, 1-24.                
+[Open-Access Article](https://www.hindawi.com/journals/complexity/2019/2108423/)       
 
 McCaig, D., Elliott, M. T., Siew, C. S. Q., Walasek, L., & Meyer. C. (2019). Profiling commenters on eating disorder-related online discussion forums based on the other forums to which they contribute. *Journal of Medical Internet Research: Mental Health, 6*(4), e12555. DOI: 10.2196\/12555          
 [Open-Access Article](https://mental.jmir.org/2019/4/e12555/)     

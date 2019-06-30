@@ -10,7 +10,7 @@ title = "About Me"
 showpagemeta = false
 +++
 
-I'm currently a post doctoral fellow at the University of Warwick, UK (and soon-to-be an Assistant Professor at the National University of Singapore!). I graduated from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017 and completed my undergraduate degree in Psychology at the National University of Singapore in 2011. 
+I'm currently an Assistant Professor of Psychology at the National University of Singapore. After graduating from the Cognitive and Brain Sciences PhD Program at the University of Kansas, USA, in 2017, I went across the pond and was a post doctoral fellow at the University of Warwick, UK, from 2017 to 2019.      
 
 I’m a psycholinguist and cognitive scientist who uses network analysis to study cognitive structures, such as the mental lexicon and semantic memory. My research uses a combination of experimental methods from cognitive psychology and psycholinguistics, computational modeling and mathematical methods from network science, and large-scale analysis of databases and linguistic corpora to address the following questions:
 
