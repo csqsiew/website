@@ -10,7 +10,7 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/7bnfn5mqtn5lbju/Siew_CV_6May2019.pdf?dl=0)     
+View my CV [here.](https://www.dropbox.com/s/q9m0uwukyqp84zb/Siew_CV_1Aug2019.pdf?dl=0)     
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
@@ -27,8 +27,8 @@ Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019, February 21). For
 
 **Peer-Reviewed Articles** 
 
-Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (in press). New Perspectives on the Aging Lexicon. *Trends in Cognitive Sciences.*            
-[Accepted Paper](https://psyarxiv.com/envsu/)      
+Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (2019). New Perspectives on the Aging Lexicon. *Trends in Cognitive Sciences. 23*(8), 686-698. DOI: 10.1016/j.tics.2019.05.003            
+[Open-Access Article](https://doi.org/10.1016/j.tics.2019.05.003)        
 
 Siew, C. S. Q., Wulff, D. U., Beckage, N., & Kenett, Y. (2019). Cognitive Network Science: A review of research on cognition through the lens of network representations, processes, and dynamics. *Complexity*, 1-24.                
 [Open-Access Article](https://www.hindawi.com/journals/complexity/2019/2108423/)       
