@@ -14,20 +14,27 @@ View my CV [here.](https://www.dropbox.com/s/8vqz2w9pkw6kc2h/Siew_CV_7Oct2019.pd
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
-**Pre-prints**
+**Preprints**
 
-Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.       
-[OSF Preprint](https://osf.io/ve7k3/)       
+Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.         
+[OSF Preprint](https://osf.io/ve7k3/)         
 
-Siew, C. S. Q. (2019, May 23). Feature distinctiveness effects in language acquisition and lexical processing.      
-[PsyArxiv](https://psyarxiv.com/p45gf/)
+Castro, N., Stella., M., & Siew, C. S. Q. (2019). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network.         
+[OSF Preprint](https://osf.io/D9TK6/)          
 
-**Peer-Reviewed Articles** 
+Castro, N., & Siew, C. S. Q. (2019). Contributions of Modern Network Science to the Cognitive Sciences: Revisiting research spirals of representation and process.          
+[PsyArxiv Preprint](https://psyarxiv.com/gkmb8/)         
 
-Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (in press). Forma mentis networks quantify crucial differences in STEM perception between students and experts. *PLOS ONE.*     
-[PsyArxiv Preprint](https://doi.org/10.31234/osf.io/7ewn9)        
+**Peer-Reviewed Articles**      
 
-Perko, V. L., Forbush, K. T., Siew, C. S. Q., & Tregarthen, J. P. (in press). Application of network analysis to investigate sex differences in interactive systems of eating-disorder psychopathology. *International Journal of Eating Disorders.*           
+Siew, C. S. Q. (in press). Feature distinctiveness effects in language acquisition and lexical processing. *Cognitive Processing.*           
+[PsyArxiv Preprint](https://psyarxiv.com/p45gf/)           
+
+Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019). Forma mentis networks quantify crucial differences in STEM perception between students and experts. *PLOS ONE, 14*(10): e0222870. DOI: https://doi.org/10.1371/journal.pone.0222870         
+[Open-Access Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222870)                
+
+Perko, V. L., Forbush, K. T., Siew, C. S. Q., & Tregarthen, J. P. (2019). Application of network analysis to investigate sex differences in interactive systems of eating-disorder psychopathology. *International Journal of Eating Disorders, 52*(12), 1343-1352. DOI: 10.1002/eat.23170             
+[Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/eat.23170)          
 
 Wulff, D. U., De Deyne, S., Jones, M. N., Mata, R., & the Aging Lexicon Consortium (Austerweil, J. L., Baayen, R. H., Balota, D. A., Baronchelli, A., Brysbaert, M., Cai, Q., Dennis, S., Hills, T. T., Kenett, Y. N., Keuleers, E., Marelli, M., Pakhomov, S. V., Ramscar, M., Schooler, L. J., Shing, Y., L., da Souza, A. S., Siew, C. S. Q., Storms, G., Veríssimo, J.) (2019). New Perspectives on the Aging Lexicon. *Trends in Cognitive Sciences. 23*(8), 686-698. DOI: 10.1016/j.tics.2019.05.003            
 [Open-Access Article](https://doi.org/10.1016/j.tics.2019.05.003)        

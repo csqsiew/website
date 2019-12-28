@@ -12,15 +12,17 @@ showpagemeta = false
 
 **Forthcoming**
 
-Siew, C. S. Q. (2019, September). Applications of network analysis to education research: Quantifying conceptual representations, modeling learning processes, and developing expertise. Talk to be presented at the Symposium on Networks Applied in Science Education Research. University of Helsinki, Finland.       
-
-Siew, C. S. Q. (2019, October). Bigram Humor is Associated with Lower Activation Entropy in a Semantic Network. Talk to be presented at the 2019 Conference on Complex Systems. NTU, Singapore.        
-
-Castro, N., Stella, M., & Siew, C. S. Q. (2019, October). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network. Talk to be presented at the 2019 Conference on Complex Systems. NTU, Singapore.      
-
-Siew, C. S. Q. (2019, November). Feature Distinctiveness Effects in Language Acquisition and Lexical Processing: Insights from Megastudies. Talk to be presented at the 60th Annual Meeting of the Psychonomic Society. Montreal, Canada.      
+Siew, C. S. Q. (2020, January). Applications of Network Science to the Cognitive and Language Sciences. Talk to be presented at the Complexity Institute, NTU, Singapore.      
 
 **2019**
+
+Siew, C. S. Q. (2019, November). Feature Distinctiveness Effects in Language Acquisition and Lexical Processing: Insights from Megastudies. Talk presented at the 60th Annual Meeting of the Psychonomic Society. Montreal, Canada.       
+
+Castro, N., Stella, M., & Siew, C. S. Q. (2019, October). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network. Parallel session talk presented at the 2019 Conference on Complex Systems. NTU, Singapore.       
+
+Siew, C. S. Q. (2019, October). Bigram Humor is Associated with Lower Activation Entropy in a Semantic Network. Ignite talk presented at the 2019 Conference on Complex Systems. NTU, Singapore.      
+
+Siew, C. S. Q. (2019, September). Applications of network analysis to education research: Quantifying conceptual representations, modeling learning processes, and developing expertise. Invited talk presented at the Symposium on Networks Applied in Science Education Research. University of Helsinki, Finland.     
 
 Siew, C. S. Q. (2019, May). Listen Carefully: Auditory Illusions and Tricks. Pint of Science. Coventry, UK. [Public outreach].       
 
