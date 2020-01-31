@@ -10,7 +10,7 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/8vqz2w9pkw6kc2h/Siew_CV_7Oct2019.pdf?dl=0)     
+View my CV [here.](https://www.dropbox.com/s/aa5pps5f0we1wan/Siew_CV_31Jan2020.pdf?dl=0)     
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
