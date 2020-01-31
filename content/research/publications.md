@@ -16,9 +16,6 @@ Feel free to email me for reprints of any of the articles below.
 
 **Preprints**
 
-Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2019). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective.         
-[OSF Preprint](https://osf.io/ve7k3/)         
-
 Castro, N., Stella., M., & Siew, C. S. Q. (2019). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network.         
 [OSF Preprint](https://osf.io/D9TK6/)          
 
@@ -27,8 +24,11 @@ Castro, N., & Siew, C. S. Q. (2019). Contributions of Modern Network Science to 
 
 **Peer-Reviewed Articles**      
 
-Siew, C. S. Q. (in press). Feature distinctiveness effects in language acquisition and lexical processing. *Cognitive Processing.*           
-[PsyArxiv Preprint](https://psyarxiv.com/p45gf/)           
+Siew, C. S. Q. (2020). Feature distinctiveness effects in language acquisition and lexical processing. *Cognitive Processing,* Online First. DOI: 10.1007/s10339-019-00947-6                     
+[Article](https://link.springer.com/article/10.1007/s10339-019-00947-6) | [Accepted Preprint](https://psyarxiv.com/p45gf/)       
+
+Ooi, J., Michael, J., Lemola, S., Butterfill, S., Siew, C. S. Q., & Walasek, L. (2020). Interpersonal Functioning in Borderline Personality Disorder Traits: A Social Media Perspective. *Scientific Reports, 10*, 1068. DOI: s41598-020-58001-x                
+[Article](https://www.nature.com/articles/s41598-020-58001-x)           
 
 Stella, M., De Nigris, S., Aloric, A., & Siew, C. S. Q. (2019). Forma mentis networks quantify crucial differences in STEM perception between students and experts. *PLOS ONE, 14*(10): e0222870. DOI: https://doi.org/10.1371/journal.pone.0222870         
 [Open-Access Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222870)                

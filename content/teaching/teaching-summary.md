@@ -10,6 +10,10 @@ description = "A summary of my teaching experiences"
 showpagemeta = false
 +++
 
+**National University of Singapore (2019-)**       
+
+PL3237 Language and Cognitive Processes       
+
 **University of Kansas (2012-2017)**
 
 *Summer 2016*

@@ -10,9 +10,9 @@ description = "Chronological list of conference posters and academic presentatio
 showpagemeta = false
 +++
 
-**Forthcoming**
+**2020**
 
-Siew, C. S. Q. (2020, January). Applications of Network Science to the Cognitive and Language Sciences. Talk to be presented at the Complexity Institute, NTU, Singapore.      
+Siew, C. S. Q. (2020, January). Applications of Network Science to the Cognitive and Language Sciences. Invited talk presented at the Complexity Institute, NTU, Singapore.       
 
 **2019**
 
