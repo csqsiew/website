@@ -82,7 +82,7 @@ Vitevitch, M. S., Siew, C. S. Q., Castro, N., Goldstein, R., Gharst, J. A., Kuma
 [Open-Access Article](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01190/abstract) | [KU Press Release](http://today.ku.edu/2015/07/30/web-based-tool-enables-public-track-tip-tongue-states-and-speech-errors) | Contribute your speech errors [here](http://spedi.ku.edu/)!
 
 Siew, C. S. Q. (2013). Community structure in the phonological network. *Frontiers in Psychology, 4*, 553. DOI: 10.3389/fpsyg.2013.00553      
-[Open-Access Article](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00553/abstract)
+[Open-Access Article](http://journal.frontiersin.org/Journal/10.3389/fpsyg.2013.00553/abstract) | [OSF](https://osf.io/cn5tv/)          
 
 **Other Publications** 
 
