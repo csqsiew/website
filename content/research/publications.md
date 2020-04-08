@@ -24,6 +24,9 @@ Castro, N., & Siew, C. S. Q. (2019). Contributions of Modern Network Science to 
 
 **Peer-Reviewed Articles**      
 
+Siew, C. S. Q. (2020). Applications of Network Science to Education Research: Quantifying Knowledge and the Development of Expertise through Network Analysis. *Education Sciences, 10*(4), 101. DOI: 10.3390/educsci10040101                     
+[Open-Access Article](https://www.mdpi.com/2227-7102/10/4/101)       
+
 Siew, C. S. Q. (2020). Feature distinctiveness effects in language acquisition and lexical processing. *Cognitive Processing,* Online First. DOI: 10.1007/s10339-019-00947-6                     
 [Article](https://link.springer.com/article/10.1007/s10339-019-00947-6) | [Accepted Preprint](https://psyarxiv.com/p45gf/)       
 
