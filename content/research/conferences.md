@@ -14,7 +14,7 @@ showpagemeta = false
 
 Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth principles in the phonological language network. Talk to be presented at the 15th Congress of the International Association for the Study of Child Language. Philadelphia, PA, USA. *Conference postponed to 2021.*        
 
-Chow, J., & Siew, C. S. Q. (2020). Sleep and Naps Facilitate Semantic Network Growth. Poster to be presented at the ICIS Biennial Congress. Glasgow, Scotland. *Conference postponed to 2021.*         
+Siew, C. S. Q., Horvath, K., Plunkett, K., & Chow, J. (2020). Sleep and Naps Facilitate Semantic Network Growth. Poster to be presented at the ICIS Biennial Congress. Glasgow, Scotland. *Conference postponed to 2021.*         
 
 Siew, C. S. Q. (2020, January). Applications of Network Science to the Cognitive and Language Sciences. Invited talk presented at the Complexity Institute, NTU, Singapore.       
 
