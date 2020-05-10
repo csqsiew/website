@@ -24,6 +24,8 @@ Castro, N., & Siew, C. S. Q. (2019). Contributions of Modern Network Science to 
 
 **Peer-Reviewed Articles**      
 
+Siew, C. S. Q., & Vitevitch, M. S. (in press). An investigation of network growth principles in the phonological language network. *Journal of Experimental Psychology: General*.         
+
 Siew, C. S. Q. (2020). Applications of Network Science to Education Research: Quantifying Knowledge and the Development of Expertise through Network Analysis. *Education Sciences, 10*(4), 101. DOI: 10.3390/educsci10040101                     
 [Open-Access Article](https://www.mdpi.com/2227-7102/10/4/101)       
 

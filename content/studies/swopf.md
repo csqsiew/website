@@ -10,6 +10,8 @@ description = "Participate in the SWOP project!"
 showpagemeta = false
 +++
 
+**Update: Data collection for this project has been paused for the time being.**        
+
 In this project, we are interested in understanding how novices and experts represent their conceptual knowledge structure of psychological science. To do this, we are collecting fluency and association data from people to build a cognitive representation of the knowledge domain of "psychology" which can be represented by topics/concepts and relationships between them.
 
 Your participation is greatly appreciated. It is up to you to do either Study 1, Study 2, or both! Your responses are anonymous and you are free to stop at any time.

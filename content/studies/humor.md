@@ -24,7 +24,7 @@ If you have any questions about this project, please don't hesitate to contact T
      
 Click on the link below to proceed:
 
- * [Proceed to app](http://csqsiew.shinyapps.io/humorous_phrases/)
+ * [Proceed to app](http://csqsiew.shinyapps.io/humorous_phrases2/)
 
 Thank you for your participation! :) 
 
