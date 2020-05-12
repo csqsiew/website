@@ -19,10 +19,10 @@ Feel free to email me for reprints of any of the articles below.
 Castro, N., Stella., M., & Siew, C. S. Q. (2019). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network.         
 [OSF Preprint](https://osf.io/D9TK6/)          
 
-Castro, N., & Siew, C. S. Q. (2019). Contributions of Modern Network Science to the Cognitive Sciences: Revisiting research spirals of representation and process.          
-[PsyArxiv Preprint](https://psyarxiv.com/gkmb8/)         
-
 **Peer-Reviewed Articles**      
+
+Castro, N., & Siew, C. S. Q. (in press). Contributions of Modern Network Science to the Cognitive Sciences: Revisiting research spirals of representation and process. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*. DOI: 10.1098/rspa.2019.0825        
+[Accepted Preprint](https://psyarxiv.com/gkmb8/)        
 
 Siew, C. S. Q., & Vitevitch, M. S. (in press). An investigation of network growth principles in the phonological language network. *Journal of Experimental Psychology: General*.         
 
