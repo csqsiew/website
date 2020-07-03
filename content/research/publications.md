@@ -21,11 +21,11 @@ Castro, N., Stella., M., & Siew, C. S. Q. (2019). Quantifying the interplay of s
 
 **Peer-Reviewed Articles**      
 
-Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth principles in the phonological language network. *Journal of Experimental Psychology: General*. Online First. DOI:    
-[Accepted Preprint](https://psyarxiv.com/kahcu/)        
+Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth principles in the phonological language network. *Journal of Experimental Psychology: General*. Online First. DOI: 10.1037/xge0000876          
+[Article](https://psycnet.apa.org/record/2020-45454-001) | [Accepted Preprint](https://psyarxiv.com/kahcu/)        
 
 Castro, N., & Siew, C. S. Q. (2020). Contributions of Modern Network Science to the Cognitive Sciences: Revisiting research spirals of representation and process. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*. DOI: 10.1098/rspa.2019.0825        
-[Accepted Preprint](https://psyarxiv.com/gkmb8/)        
+[Article](https://royalsocietypublishing.org/doi/10.1098/rspa.2019.0825) | [Accepted Preprint](https://psyarxiv.com/gkmb8/)        
 
 Siew, C. S. Q. (2020). Applications of Network Science to Education Research: Quantifying Knowledge and the Development of Expertise through Network Analysis. *Education Sciences, 10*(4), 101. DOI: 10.3390/educsci10040101                     
 [Open-Access Article](https://www.mdpi.com/2227-7102/10/4/101)       
