@@ -16,6 +16,8 @@ Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth pr
 
 Siew, C. S. Q., Horvath, K., Plunkett, K., & Chow, J. (2020). Sleep and Naps Facilitate Semantic Network Growth. Poster to be presented at the ICIS Biennial Congress. Glasgow, Scotland. *Conference postponed to 2021.*         
 
+Siew, C. S. Q. (2020, July). Quantifying the structure of the mental lexicon using network science. Online talk presented at the Virtual Psycholinguistics Forum, CUHK, Hong Kong.      
+
 Siew, C. S. Q. (2020, January). Applications of Network Science to the Cognitive and Language Sciences. Invited talk presented at the Complexity Institute, NTU, Singapore.       
 
 **2019**
