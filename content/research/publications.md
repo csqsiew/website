@@ -10,16 +10,20 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/4yww6phf1k04746/Siew_CV_8Apr2020.pdf?dl=0)     
+View my CV [here.](https://www.dropbox.com/s/t4mn7pnikffry8x/Siew_CV_24Aug2020.pdf?dl=0)     
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
 **Preprints**
 
-Castro, N., Stella., M., & Siew, C. S. Q. (2019). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network.         
-[OSF Preprint](https://osf.io/D9TK6/)          
+Watch this space!       
 
 **Peer-Reviewed Articles**      
+
+Siew, C. S. Q., Yi. K., & Lee, C. H. (in press). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project.  *Journal of Memory and Language*.      
+
+Castro, N., Stella., M., & Siew, C. S. Q. (in press). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network. *Cognitive Science*.             
+[Preprint](https://osf.io/D9TK6/)      
 
 Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth principles in the phonological language network. *Journal of Experimental Psychology: General*. Online First. DOI: 10.1037/xge0000876          
 [Article](https://psycnet.apa.org/record/2020-45454-001) | [Accepted Preprint](https://psyarxiv.com/kahcu/)        
