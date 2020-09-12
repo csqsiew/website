@@ -16,14 +16,17 @@ Feel free to email me for reprints of any of the articles below.
 
 **Preprints**
 
-Watch this space!       
+Li, Y., & Siew, C. S. Q. Diachronic semantic change in language influences, and is constrained by, how people use and learn language.        
+[OSF Preprint](https://osf.io/gw8vj/)      
 
 **Peer-Reviewed Articles**      
 
-Siew, C. S. Q., Yi. K., & Lee, C. H. (in press). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project.  *Journal of Memory and Language*.      
+Siew, C. S. Q., & Vitevitch, M. S. (in press). Investigating the Influence of Inverse Preferential Attachment on Network Development. *Entropy*.      
 
-Castro, N., Stella., M., & Siew, C. S. Q. (in press). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network. *Cognitive Science*.             
-[Preprint](https://osf.io/D9TK6/)      
+Siew, C. S. Q., Yi. K., & Lee, C. H. (in press). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project.  *Journal of Memory and Language*.       
+
+Castro, N., Stella., M., & Siew, C. S. Q. (2020). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network. *Cognitive Science, 44(9)*, e12881. DOI: 10.1111/cogs.12881                    
+[Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12881) | [Preprint](https://osf.io/D9TK6/)        
 
 Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth principles in the phonological language network. *Journal of Experimental Psychology: General*. Online First. DOI: 10.1037/xge0000876          
 [Article](https://psycnet.apa.org/record/2020-45454-001) | [Accepted Preprint](https://psyarxiv.com/kahcu/)        
