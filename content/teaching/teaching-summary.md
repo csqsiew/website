@@ -12,7 +12,9 @@ showpagemeta = false
 
 **National University of Singapore (2019-)**       
 
-PL3237 Language and Cognitive Processes       
+* PL3237 Language and Cognitive Processes 
+
+* PL3281E Lab in Speech and Language Processes 
 
 **University of Kansas (2012-2017)**
 

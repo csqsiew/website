@@ -10,7 +10,7 @@ description = "A list of peer-reviewed publications (and a few preprints)"
 showpagemeta = false
 +++
 
-View my CV [here.](https://www.dropbox.com/s/t4mn7pnikffry8x/Siew_CV_24Aug2020.pdf?dl=0)     
+View my CV [here.](https://www.dropbox.com/s/fip9vm93hjn4djl/Siew_CV_17Jan2021.pdf?dl=0)     
 [Altmetric badges.](https://csqsiew.shinyapps.io/altmetric/)       
 Feel free to email me for reprints of any of the articles below.    
 
@@ -21,9 +21,11 @@ Li, Y., & Siew, C. S. Q. Diachronic semantic change in language influences, and 
 
 **Peer-Reviewed Articles**      
 
-Siew, C. S. Q., & Vitevitch, M. S. (in press). Investigating the Influence of Inverse Preferential Attachment on Network Development. *Entropy*.      
+Siew, C. S. Q., Yi. K., & Lee, C. H. (2021). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project. *Journal of Memory and Language, 116*, 104170. DOI: https://doi.org/10.1016/j.jml.2020.104170.     
+[Article](https://www.sciencedirect.com/science/article/abs/pii/S0749596X2030084X?dgcid=rss_sd_all)     
 
-Siew, C. S. Q., Yi. K., & Lee, C. H. (in press). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project.  *Journal of Memory and Language*.       
+Siew, C. S. Q., & Vitevitch, M. S. (2020). Investigating the influence of inverse preferential attachment on network development. *Entropy, 22*(9), 1029. DOI: https://doi.org/10.3390/e22091029     
+[Open-Access Article](https://www.mdpi.com/1099-4300/22/9/1029)     
 
 Castro, N., Stella., M., & Siew, C. S. Q. (2020). Quantifying the interplay of semantics and phonology during failures of word retrieval by people with aphasia using a multiplex lexical network. *Cognitive Science, 44(9)*, e12881. DOI: 10.1111/cogs.12881                    
 [Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12881) | [Preprint](https://osf.io/D9TK6/)        
