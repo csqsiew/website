@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://csqsiew.netlify.com" 
+baseurl = "https://csqsiew.netlify.app" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -42,7 +42,7 @@ email = "cynthia@nus.edu.sg"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. CSQ Siew." 
+copyright = "© 2021. CSQ Siew." 
 poweredby = true
 highlightjs = true
 
@@ -72,4 +72,9 @@ highlightjs = true
     identifier = "studies"
     weight = 300
     url = "/studies/"
+[[menu.main]]
+    name = "scheduler"
+    identifier = "appointments"
+    weight = 350
+    url = "/appointments/"
     
