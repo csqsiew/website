@@ -11,4 +11,5 @@ showpagemeta = false
 +++
 
 * [ResearchGate](https://www.researchgate.net/profile/Cynthia_Siew)
-![](./path/example.svg)
+test
+![](/img/example.svg)
