@@ -10,6 +10,8 @@ title = "Appointment Scheduler"
 showpagemeta = false
 +++
 
-* [ResearchGate](https://www.researchgate.net/profile/Cynthia_Siew)
-test
-![](/img/example.svg)
+* [ResearchGate](https://www.researchgate.net/profile/Cynthia_Siew)  
+
+test2  
+
+![](/img/example.svg)  
