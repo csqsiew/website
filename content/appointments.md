@@ -10,8 +10,5 @@ title = "Appointment Scheduler"
 showpagemeta = false
 +++
 
-* [ResearchGate](https://www.researchgate.net/profile/Cynthia_Siew)  
+[Click here to go to the scheduler](https://cloud.csqsiew.xyz/nextcloud/index.php/apps/appointments/embed/Nb%2Bu%2Bo5iIufxrYw%3D/form)  
 
-test2  
-
-![](/img/example.svg)  
