@@ -20,7 +20,7 @@ By proceeding, you are permitting your data to be used for research purposes, wi
 
 Your responses are anonymous and you are free to leave the website at any time.
 
-If you have any questions about this project, please don't hesitate to contact Tomas Engelthaler (*T.Engelthaler@warwick.ac.uk*) or Cynthia Siew (*C.Siew@warwick.ac.uk*).
+If you have any questions about this project, please don't hesitate to contact Tomas Engelthaler (*engelthaler.tomas@gmail.com*) or Cynthia Siew (*cynthia@nus.edu.sg*).
      
 Click on the link below to proceed:
 

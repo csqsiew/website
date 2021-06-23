@@ -22,7 +22,7 @@ Li, Y., & Siew, C. S. Q. Diachronic semantic change in language influences, and 
 **Peer-Reviewed Articles**      
 
 Siew, C. S. Q. (in press). Global and local feature distinctiveness effects in language acquisition. *Cognitive Science*.   
-[OSF Preprint](https://osf.io/85gwc/)   
+[OSF Preprint](https://osf.io/85gwc/)    
 
 Siew, C. S. Q., Yi. K., & Lee, C. H. (2021). Syllable and letter similarity effects in Korean: Insights from the Korean Lexicon Project. *Journal of Memory and Language, 116*, 104170. DOI: https://doi.org/10.1016/j.jml.2020.104170.     
 [Article](https://www.sciencedirect.com/science/article/abs/pii/S0749596X2030084X?dgcid=rss_sd_all)     

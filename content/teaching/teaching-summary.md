@@ -16,6 +16,8 @@ showpagemeta = false
 
 * PL3281E Lab in Speech and Language Processes 
 
+* PL4246 Networks in Psychology  
+
 **University of Kansas (2012-2017)**
 
 *Summer 2016*

@@ -10,6 +10,14 @@ description = "Chronological list of conference posters and academic presentatio
 showpagemeta = false
 +++
 
+**2021**  
+
+Siew, C. S. Q., & Vitevitch, M. S. (2021). An investigation of network growth principles in the phonological language network. Talk to be presented at the 15th Congress of the International Association for the Study of Child Language. Philadelphia, PA, USA. *Online*    
+
+Siew, C. S. Q. (2021). Investigating the effect of distance entropy on semantic priming. Poster to be presented at the 43rd Annual Meeting of the Cognitive Science Society, Vienna, Austria. *Online*   
+
+* [Poster](https://cloud.csqsiew.xyz/nextcloud/index.php/s/9GKz7CXN2RBiLjB)  
+
 **2020**
 
 Siew, C. S. Q. (2020, December). Networks in Psychology. Invited talk presented at Reimagine Research: Complexity Science Workshop, Office of the Deputy President, Research and Technology (ODPRT), NUS.     
@@ -19,8 +27,6 @@ Siew, C. S. Q. (2020, December). Investigating the influence of phonographic sim
 Siew, C. S. Q., Castro, N., & Chan, K. Y. (2020). Exploring the Phonological Spaces of the English Lexicon of L1 and L2 Speakers: Insights from Network Analysis. Poster presented at the 61st Annual Meeting of the Psychonomic Society (online).      
 
 Siew, C. S. Q. (2020, October). Investigating processes and development of the mental lexicon through network science. Invited online lecture presented at the Russian Academy of Sciences, Moscow, Russia.     
-
-Siew, C. S. Q., & Vitevitch, M. S. (2020). An investigation of network growth principles in the phonological language network. Talk to be presented at the 15th Congress of the International Association for the Study of Child Language. Philadelphia, PA, USA. *Conference postponed to 2021.*        
 
 Siew, C. S. Q., Horvath, K., Plunkett, K., & Chow, J. (2020). Sleep and Naps Facilitate Semantic Network Growth. Poster to be presented at the ICIS Biennial Congress. Glasgow, Scotland. *Conference postponed to 2021.*         
 
