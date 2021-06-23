@@ -70,11 +70,11 @@ highlightjs = true
 [[menu.main]]
     name = "studies"
     identifier = "studies"
-    weight = 300
+    weight = 280
     url = "/studies/"
 [[menu.main]]
     name = "scheduler"
     identifier = "appointments"
-    weight = 350
+    weight = 300
     url = "/appointments/"
     
